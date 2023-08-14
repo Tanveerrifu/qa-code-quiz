@@ -21,10 +21,18 @@
 
 This project aims to automate testing for the login and logout functionalities of a web application developed by meldCX using [Cypress](https://www.cypress.io/), a modern end-to-end testing framework.
 
+
+![image](https://github.com/Tanveerrifu/qa-code-quiz/assets/47789876/cf6575a1-e71d-4dfd-9220-93459b28eee6)
+
+
 ## Login
 
 
-https://github.com/Tanveerrifu/qa-code-quiz/assets/47789876/3286cbd8-9fa5-4bdc-a46b-3affb29b0d76
+
+
+https://github.com/Tanveerrifu/qa-code-quiz/assets/47789876/b8e2d087-2d86-4535-b744-a0ea8a6127e0
+
+
 
 
 
@@ -32,14 +40,22 @@ https://github.com/Tanveerrifu/qa-code-quiz/assets/47789876/3286cbd8-9fa5-4bdc-a
 
 
 
-https://github.com/Tanveerrifu/qa-code-quiz/assets/47789876/26270c4b-588c-4b8e-b423-98bd39459978
+
+https://github.com/Tanveerrifu/qa-code-quiz/assets/47789876/e387e484-bf6d-499b-8b36-ac17f5cefd25
+
+
+
 
 
 ## User Details
 
 
 
-https://github.com/Tanveerrifu/qa-code-quiz/assets/47789876/bd8dd5bd-d3ea-4396-8043-6dbb952dd178
+
+
+https://github.com/Tanveerrifu/qa-code-quiz/assets/47789876/817b9174-de82-4d7c-8833-5a606b9d96b1
+
+
 
 
 
